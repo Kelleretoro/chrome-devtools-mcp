@@ -38,7 +38,7 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "1.18.1",
     "debug": "4.4.3",
-    "puppeteer-core": "24.22.3",
+    "puppeteer-core": "24.24.1",
     "yargs": "18.0.0"
   },
   "devDependencies": {
